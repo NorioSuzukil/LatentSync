@@ -1,0 +1,10 @@
+# Default gitignore
+.DS_Store
+.idea/
+.vscode/
+*.log
+build/
+dist/
+target/
+out/
+bin/
